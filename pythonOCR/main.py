@@ -2,8 +2,8 @@ from aip import AipOcr
 import os,shutil
 import re as formatr
 
-dir = r'D:\work\code\pythonProject1\orc'
-dirs = r'D:\work\code\pythonProject1'
+dir = r''
+dirs = r''
 
 
 def read_image(path):
